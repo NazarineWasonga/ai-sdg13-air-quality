@@ -55,4 +55,66 @@ The model aims to:
 ---
 
 ## 📁 Repository Structure
+ai-sdg13-air-quality/
+│
+├── air_quality_prediction.ipynb # Jupyter notebook version
+├── air_quality_prediction.py # Python script version
+├── README.md # Documentation
+└── images/
+├── results.png # Evaluation graph
+├── model_output.png # Output visualization
+
+
+---
+
+## 🧑‍💻 Installation & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/ai-sdg13-air-quality.git
+   cd ai-sdg13-air-quality
+   
+2. Install dependencies
+pip install pandas numpy matplotlib scikit-learn
+
+3. Run the script
+python air_quality_prediction.py
+
+4. Or open the notebook
+jupyter notebook air_quality_prediction.ipynb
+
+📈 Sample Results
+| Metric   | Value |
+| -------- | ----- |
+| MAE      | 3.27  |
+| R² Score | 0.91  |
+Visuals:
+🌱 Ethical Reflection
+
+AI can help policymakers monitor and predict pollution levels effectively.
+However, bias in data (e.g., missing data from rural areas) may lead to unequal solutions.
+The project emphasizes transparency, fairness, and the importance of open environmental data for sustainable action.
+
+💡 SDG Impact — SDG 13: Climate Action
+Impact Area	Description
+Prediction	Helps identify high-risk pollution zones
+Awareness	Supports campaigns for cleaner air
+Policy	Enables data-driven environmental decisions
+🧩 Tools & Technologies
+
+Python 🐍
+
+Pandas / NumPy
+
+Scikit-learn
+
+Matplotlib
+
+Jupyter Notebook
+
+👏 Author
+
+Nazarine Wasonga
+AI for Sustainable Development Project — PLP Academy
+
 
