@@ -97,14 +97,14 @@ Visuals:
 
 ---
 ## 🌱 Ethical Reflection
----
+
 
 AI can help policymakers monitor and predict pollution levels effectively.
 However, bias in data (e.g., missing data from rural areas) may lead to unequal solutions.
 The project emphasizes transparency, fairness, and the importance of open environmental data for sustainable action.
 
 ## 💡 SDG Impact — SDG 13: Climate Action
----
+
 Impact Area	Description
 Prediction	Helps identify high-risk pollution zones
 Awareness	Supports campaigns for cleaner air
@@ -112,7 +112,6 @@ Policy	Enables data-driven environmental decisions
 
 ---
 ## 🧩 Tools & Technologies
----
 
 Python 🐍
 
@@ -127,8 +126,8 @@ Jupyter Notebook
 ## 👏 Author
 
 Nazarine Wasonga
----
+
 AI for Sustainable Development Project — PLP Academy
----
+
 
 
